@@ -9,7 +9,7 @@ I'm Guilherme, a fullstack developer based in 🇨🇦 Toronto, Canada, but orig
 - 👨‍💻 Know more about my experiences visiting my [resumé](https://guibs-portfolio.vercel.app/files/Resume%20-%20Guilherme%20da%20Silva.pdf)
 - ⚡ Fun fact: I ❤️ 🐶s and acoustic guitars
 
-#### Things I code with
+### Things I code with
 
 <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -32,6 +32,6 @@ I'm Guilherme, a fullstack developer based in 🇨🇦 Toronto, Canada, but orig
     <img alt="Asana" src="https://img.shields.io/badge/Asana-FE584A?style=flat-square&logo=Asana&logoColor=white" />
 </p>
 
-#### Connect with me
+### Connect with me
 
 <a href="https://linkedin.com/in/guilhermebdasilva" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
