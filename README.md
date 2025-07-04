@@ -27,8 +27,10 @@ I'm Guilherme, a fullstack developer based in 🇨🇦 Toronto, Canada, but orig
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
+    <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
     <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white" />
     <img alt="Asana" src="https://img.shields.io/badge/Asana-FE584A?style=flat-square&logo=Asana&logoColor=white" />
+    <img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" />
 </p>
 
 ### Connect with me
