@@ -2,7 +2,7 @@
 
 I'm Guilherme, a fullstack developer based in 🇨🇦 Toronto, Canada, but originally from 🇧🇷 Brazil.
 
-- 🔭 I’m currently working on Himigo and Amber Money 🤫
+- 🔭 I’m currently working on [Himigo](https://www.himigo.io/) and [Amber](https://ambermoney.co/) 🤫
 - 🌱 I’m currently learning **Nest.js**
 - 💬 Ask me about anything related to **Javascript/Typescript or React/Express/Next**
 - 👨‍💻 Know more about my experiences visiting my [resume](https://guibs-portfolio.vercel.app/files/Resume%20-%20Guilherme%20da%20Silva.pdf)
