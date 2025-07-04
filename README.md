@@ -18,7 +18,7 @@ I'm Guilherme, a fullstack developer based in 🇨🇦 Toronto, Canada, but orig
     <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus&style=flat-square" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="Nextjs" src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=graphql&logoColor=white" />
+    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
     <img alt="SQL" src="https://img.shields.io/badge/-SQL-blue?&logo=MySQL&logoColor=FFF&style=flat-square" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" />
     <img alt="Oracle SQL" src="https://img.shields.io/badge/-Oracle%20SQL-red?&style=flat-square" />
