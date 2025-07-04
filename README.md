@@ -2,10 +2,9 @@
 
 I'm Guilherme, a fullstack developer based in 🇨🇦 Toronto, Canada, but originally from 🇧🇷 Brazil.
 
-- 🔭 I’m currently working on Seneca Hackathon 🤫
-- 🌱 I’m currently learning **React Native, Python**
-- 🤝 I’m looking for help with **Open Source contributions**
-- 💬 Ask me about anything related to **Javascript/Typescript/C++ or React/Express/Next**
+- 🔭 I’m currently working on Himigo and Amber Money 🤫
+- 🌱 I’m currently learning **Nest.js**
+- 💬 Ask me about anything related to **Javascript/Typescript or React/Express/Next**
 - 👨‍💻 Know more about my experiences visiting my [resume](https://guibs-portfolio.vercel.app/files/Resume%20-%20Guilherme%20da%20Silva.pdf)
 - ⚡ Fun fact: I ❤️ 🐶s and acoustic guitars
 
